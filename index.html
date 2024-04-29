@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF - 8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+    />
+    <title>Portfolio</title>
+  </head>
+
+  <!-- My portofolio starts here -->
+
+  <body>
+    <div class="portfolio">
+      <!-- Navbar"s Box Starts -->
+
+      <nav id="menubar" class="navbar hide">
+        <div class="logo">
+          <img src="images/Logo.png" alt="" />
+        </div>
+        <div class="navlinks">
+          <a onclick="toggleNavbar()" href="#home" class="links">
+            <span class="link_img"><i class="fa-solid fa-house"></i></span>
+            <span class="link_text">HOME</span>
+          </a>
+          <a onclick="toggleNavbar()" href="#about" class="links">
+            <span class="link_img"><i class="fa-solid fa-user"></i></span>
+            <span class="link_text">ABOUT</span>
+          </a>
+          <a onclick="toggleNavbar()" href="#skills" class="links">
+            <span class="link_img"><i class="fa-solid fa-pen"></i></span>
+            <span class="link_text">SKILLS</span>
+          </a>
+          <a onclick="toggleNavbar()" href="#projects" class="links">
+            <span class="link_img"><i class="fa-solid fa-paperclip"></i></span>
+            <span class="link_text">PROJECTS</span>
+          </a>
+          <a onclick="toggleNavbar()" href="#contacts" class="links">
+            <span class="link_img"
+              ><i class="fa-solid fa-address-book"></i
+            ></span>
+            <span class="link_text">CONTACTS</span>
+          </a>
+        </div>
+      </nav>
+      <div id="cutbutton" onclick="toggleNavbar()" class="iconmenu">
+        <i class="fa-solid fa-bars"></i>
+        <img src="images/Logo.png" alt="" />
+      </div>
+      <!-- Main Box Starts -->
+      <div class="main_box">
+        <header id="home">
+          <div class="bckgimg">
+            <div class="About">
+              <h1 class="Heading">Hi, I'Am D.S!</h1>
+              <p>" Welcome to my creative corner! "</p>
+              <br />
+              <p1>
+                " I am <span class="namestyle">Divyansh Sharma</span> , a
+                passionate web developer dedicated to pushing the boundaries of
+                innovation and excellence. Through a blend of expertise,
+                imagination, and relentless curiosity, I strive to create
+                impactful and memorable website experiences. Join me on a
+                journey through my portfolio, where each project is a testament
+                to my commitment to craftsmanship and a celebration of the
+                boundless possibilities within the world of Development."
+              </p1>
+            </div>
+          </div>
+        </header>
+        <section id="about">
+          <p class="detailshead">ABOUT ME</p>
+          <div class="managedetails">
+            <div class="imgbox">
+              <img src="images/King.jpg" alt="" />
+            </div>
+            <div class="details">
+              <div class="detailsbar">
+                <button class="detailsbtn" onclick="selectoption(0)" id="tab-0">
+                  Personal Details
+                </button>
+                <button onclick="selectoption(1)" id="tab-1">
+                  Educational Details
+                </button>
+                <button onclick="selectoption(2)" id="tab-2">
+                  Achievements
+                </button>
+              </div>
+              <div class="detailsinfo" id="content">
+                <div class="detailsdata">
+                  <h1>Personal Details</h1>
+                  <p>
+                    Hailing from Ajmer, Rajasthan, I now call the bustling city
+                    of Jaipur my home, pursuing higher studies. An extroverted
+                    and enthusiastic leader, I thrive on fostering collaboration
+                    and teamwork. Maintaining an active lifestyle fuels my mind
+                    and body, whether it's dominating the basketball court,
+                    strategizing a winning move on the cricket pitch, or spiking
+                    a powerful volleyball serve. Beyond athletics, I find myself
+                    drawn to the strategic and creative world of web
+                    development. Just like I enjoy dissecting plays on the
+                    field, I relish the challenge of breaking down complex
+                    problems into elegant lines of code. This passion for web
+                    development fuels my constant learning. Driven and
+                    hardworking with a calm demeanor, I believe these qualities,
+                    along with my adaptability and collaborative spirit, will
+                    equip me to excel in any challenge I take on. My ultimate
+                    ambition is to become a paragon of web development, a master
+                    of this ever-evolving field. I yearn to push the boundaries
+                    of what's possible, crafting innovative and user-centric
+                    experiences that leave a lasting impact.
+                  </p>
+                </div>
+                <div class="detailsdata">
+                  <h1>Educational Details</h1>
+                  <p>
+                    My educational journey at H.K.H Public School (Primary) and
+                    Demonstration Multipurpose School (Secondary) has been a
+                    valuable experience, fostering a love for learning and
+                    active participation in extracurricular activities. While my
+                    academic performance varied across subjects, I consistently
+                    achieved passing grades. Throughout my schooling, I
+                    gravitated towards cocurricular activities like debating,
+                    anchoring, and essay writing, which honed my communication
+                    and presentation skills. These experiences fostered strong
+                    relationships with teachers, solidifying my reputation as a
+                    good communicator. Currently, pursuing a Bachelor of
+                    Technology in Computer Science at the Rajasthan Institute of
+                    Engineering and Technology, I'm driven by the desire to
+                    acquire a diverse skillset in programming languages. This
+                    passion for continuous learning fuels my goal to become a
+                    proficient developer.
+                  </p>
+                </div>
+                <div class="detailsdata">
+                  <h1>Achievements</h1>
+                  <p>
+                    Throughout my academic journey, I've actively sought
+                    opportunities to excel beyond academics. My competitive
+                    spirit shone on the playing field, participating in four
+                    district cricket tournaments and leading my school teams to
+                    victories in basketball and volleyball. I also actively
+                    pursued intellectual challenges, appearing for the NTSE exam
+                    and participating in Maths and Science Olympiads,
+                    demonstrating my aptitude for analytical thinking. My
+                    dedication to both athletics and academics was recognized
+                    through inter-school debate wins and ultimately culminated
+                    in receiving the prestigious Mr. All-rounder award upon
+                    graduation. This spirit of well-roundedness and pursuit of
+                    excellence continues to motivate me today, pushing me to not
+                    only excel in my computer science studies but also to
+                    constantly seek opportunities to learn and grow in new
+                    areas. This passion for computer science was further ignited
+                    by my participation in a computer science presentation
+                    seminar, which allowed me to showcase my knowledge and
+                    develop my presentation skills.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="skills">
+          <p class="skillshead">SKILLS</p>
+          <div id="skillbox" class="skillbox"></div>
+        </section>
+        <section id="projects">
+          <p class="projectshead">PROJECTS</p>
+          <div class="projectscontainer" id="projectbox"></div>
+        </section>
+        <section id="contacts">
+          <div class="contactbox">
+            <div class="endname">
+              <h1>D.S</h1>
+              <p>Divyansh Sharma © All rights reserved.</p>
+            </div>
+            <div class="contactsdetails">
+              <a href="https://wa.me/916367248171" target="_blank"
+                ><img src="images/whatsapp-icon.png" alt="Whatsapp"
+              /></a>
+              <a href="https://www.instagram.com/i_am_ds17/" target="_blank"
+                ><img src="images/insta-icon.png" alt="Insta"
+              /></a>
+              <a
+                href="https://www.linkedin.com/in/divyansh-sharma-1a7a24276/"
+                target="_blank"
+                ><img src="images/linkedin-icon.png" alt="Linkedin"
+              /></a>
+              <a href="https://twitter.com/I_am_DS_17" target="_blank"
+                ><img src="images/x-icon.png" alt="X"
+              /></a>
+              <a href="mailto:shan17div@gmail.com" target="_blank"
+                ><img src="images/gmail-icon.png" alt="Gmail"
+              /></a>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <script src="projectdata.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
