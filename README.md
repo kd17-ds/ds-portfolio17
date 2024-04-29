@@ -16,7 +16,7 @@ I am Divyansh Sharma, a passionate and enthusiastic web developer with a strong 
 - Participating in four district cricket tournaments
 - Leading school teams to victories in basketball and volleyball
 - Participating in Maths and Science Olympiads
-- Winning inter-school debate wins
+- Winning inter-school debates
 - Receiving the prestigious Mr. All-rounder award upon graduation
 
 ## Skills
