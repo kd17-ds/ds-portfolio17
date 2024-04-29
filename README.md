@@ -1,35 +1,45 @@
-# Portfolio
+Divyansh Sharma's Portfolio
+Introduction
 
-Welcome to my portfolio! This repository contains the code for my personal portfolio website hosted on Netlify.
+I am Divyansh Sharma, a passionate and enthusiastic web developer with a strong desire to learn and grow in the field. I enjoy teamwork and working collaboratively on projects.
 
-You can view my portfolio live at [https://ds17portfolio.netlify.app/](https://ds17portfolio.netlify.app/).
+About Me
 
-## Technologies Used
+Educational Background:
+H.K.H Public School (Primary)
+Demonstration Multipurpose School (Secondary)
+Currently pursuing a Bachelor of Technology in Computer Science at the Rajasthan Institute of Engineering and Technology
+Achievements:
+Excelling in academics
+Participating in four district cricket tournaments
+Leading school teams to victories in basketball and volleyball
+Participating in Maths and Science Olympiads
+Winning inter-school debate wins
+Receiving the prestigious Mr. All-rounder award upon graduation
+Skills
 
-- HTML5
-- CSS3
-- JavaScript
+HTML
+CSS
+JavaScript
+C
+MS Word
+PowerPoint
+MS Excel
+Projects
 
-## Features
+Math Tools
+Think Box
+To Do List
+Raghav Poshaak
+Money Purse
+Getting Started
 
-- Responsive design for various screen sizes
-- Clean and modern layout
-- Easy navigation
+(Instructions on how to clone and run the portfolio locally will be added here once you provide them)
 
-## Getting Started
+Links
 
-To run this project locally, you can follow these steps:
+Portfolio Website: https://ds17portfolio.netlify.app/
+LinkedIn Profile: https://www.linkedin.com/in/divyansh-sharma-1a7a24276/
+Contact
 
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Open the `index.html` file in your web browser.
-
-Alternatively, you can simply visit the live version of the portfolio at [https://ds17portfolio.netlify.app/](https://ds17portfolio.netlify.app/).
-
-## Contributing
-
-This portfolio is a personal project, but contributions, suggestions, and feedback are always welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Email: shan17div@gmail.com
