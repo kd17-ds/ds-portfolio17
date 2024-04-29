@@ -37,8 +37,13 @@ I am Divyansh Sharma, a passionate and enthusiastic web developer with a strong 
 4. Raghav Poshaak
 5. Money Purse
 
-## Getting Started
+## Links
 
-To clone and run this portfolio locally:
+- Portfolio Website: [Divyansh Sharma's Portfolio](https://ds17portfolio.netlify.app/)
+- LinkedIn Profile: [Divyansh Sharma on LinkedIn](https://www.linkedin.com/in/divyansh-sharma-1a7a24276/)
 
-1. Clone the Repository:
+## Contact
+
+- Email: [shan17div@gmail.com](mailto:shan17div@gmail.com)
+
+
