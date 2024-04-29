@@ -1,45 +1,44 @@
-Divyansh Sharma's Portfolio
-Introduction
+# Divyansh Sharma's Portfolio
+
+## Introduction
 
 I am Divyansh Sharma, a passionate and enthusiastic web developer with a strong desire to learn and grow in the field. I enjoy teamwork and working collaboratively on projects.
 
-About Me
+## About Me
 
-Educational Background:
-H.K.H Public School (Primary)
-Demonstration Multipurpose School (Secondary)
-Currently pursuing a Bachelor of Technology in Computer Science at the Rajasthan Institute of Engineering and Technology
-Achievements:
-Excelling in academics
-Participating in four district cricket tournaments
-Leading school teams to victories in basketball and volleyball
-Participating in Maths and Science Olympiads
-Winning inter-school debate wins
-Receiving the prestigious Mr. All-rounder award upon graduation
-Skills
+### Educational Background:
+- H.K.H Public School (Primary)
+- Demonstration Multipurpose School (Secondary)
+- Currently pursuing a Bachelor of Technology in Computer Science at the Rajasthan Institute of Engineering and Technology
 
-HTML
-CSS
-JavaScript
-C
-MS Word
-PowerPoint
-MS Excel
-Projects
+### Achievements:
+- Excelling in academics
+- Participating in four district cricket tournaments
+- Leading school teams to victories in basketball and volleyball
+- Participating in Maths and Science Olympiads
+- Winning inter-school debate wins
+- Receiving the prestigious Mr. All-rounder award upon graduation
 
-Math Tools
-Think Box
-To Do List
-Raghav Poshaak
-Money Purse
-Getting Started
+## Skills
 
-(Instructions on how to clone and run the portfolio locally will be added here once you provide them)
+- HTML
+- CSS
+- JavaScript
+- C
+- MS Word
+- PowerPoint
+- MS Excel
 
-Links
+## Projects
 
-Portfolio Website: https://ds17portfolio.netlify.app/
-LinkedIn Profile: https://www.linkedin.com/in/divyansh-sharma-1a7a24276/
-Contact
+1. Math Tools
+2. Think Box
+3. To Do List
+4. Raghav Poshaak
+5. Money Purse
 
-Email: shan17div@gmail.com
+## Getting Started
+
+To clone and run this portfolio locally:
+
+1. Clone the Repository:
