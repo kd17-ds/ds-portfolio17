@@ -279,37 +279,54 @@ a {
 }
 .progressbar {
   width: 100%;
-  height: 10px;
+  height: 9px;
   background-color: var(--bgc);
   border-radius: 22px;
   margin-top: 15px;
 }
 .progress {
   background-color: var(--main);
-  height: 10px;
+  height: 9px;
   border-radius: 22px;
 }
-.word {
-  width: 83%;
-}
-.ppt {
-  width: 63%;
-}
-.excel {
-  width: 50%;
-}
+
 .c {
   width: 75%;
 }
 .html {
-  width: 85%;
+  width: 94%;
 }
 .css {
-  width: 79%;
+  width: 92%;
 }
 .js {
-  width: 35%;
+  width: 90%;
 }
+.react {
+  width: 66%;
+}
+.nodejs {
+  width: 75%;
+}
+.express {
+  width: 72%;
+}
+.mongodb {
+  width: 72%;
+}
+.sql {
+  width: 57%;
+}
+.tailwind {
+  width: 80%;
+}
+.bootstrap {
+  width: 86%;
+}
+.ejs {
+  width: 82%;
+}
+
 .skillintro img {
   width: 70px;
 }
@@ -407,6 +424,35 @@ a {
 .contactsdetails img:hover {
   transform: scale(1.2) rotate(360deg);
   transition: 1s;
+}
+@media only screen and (min-width: 1600px) {
+  .links {
+    margin: 55px auto;
+  }
+  .bckgimg {
+    padding: 235px 100px;
+  }
+  .managedetails {
+    padding: 25px 130px;
+    gap: 180px;
+  }
+  .skillbox {
+    padding: 25px 50px;
+    gap: 50px 80px;
+  }
+  .projectscontainer {
+    padding: 25px 50px;
+    gap: 50px 80px;
+  }
+  .endname h1 {
+    font-size: 80px;
+  }
+  .endname p {
+    font-size: 25px;
+  }
+  .contactsdetails img {
+    width: 60px;
+  }
 }
 /* For tablet view */
 @media only screen and (max-width: 992px) {
