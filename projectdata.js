@@ -3,25 +3,25 @@ let skills = [
     image: "images/Html.png",
     name: "HTML",
     class: "html",
-    percent: "94%",
+    percent: "96%",
   },
   {
     image: "images/Css.png",
     name: "CSS",
     class: "css",
-    percent: "92%",
+    percent: "94%",
   },
   {
     image: "images/Js.png",
     name: "JavaScript",
     class: "js",
-    percent: "90%",
+    percent: "91%",
   },
   {
     image: "images/Bootstrap.png",
     name: "Bootstrap",
     class: "bootstrap",
-    percent: "86%",
+    percent: "88%",
   },
   {
     image: "images/Ejs.png",
@@ -33,7 +33,7 @@ let skills = [
     image: "images/Tailwind.png",
     name: "Tailwind CSS",
     class: "tailwind",
-    percent: "80%",
+    percent: "85%",
   },
   {
     image: "images/C.png",
@@ -45,39 +45,60 @@ let skills = [
     image: "images/Nodejs.png",
     name: "Node.js",
     class: "nodejs",
-    percent: "75%",
+    percent: "82%",
   },
   {
     image: "images/Express.png",
     name: "Express",
     class: "express",
-    percent: "72%",
+    percent: "78%",
   },
   {
     image: "images/Mongodb.png",
     name: "MongoDB",
     class: "mongodb",
-    percent: "72%",
+    percent: "77%",
   },
   {
     image: "images/React.png",
     name: "React",
     class: "react",
-    percent: "66%",
+    percent: "74%",
   },
   {
     image: "images/Sql.png",
     name: "SQL",
     class: "sql",
-    percent: "57%",
+    percent: "60%",
+  },
+  {
+    image: "images/Java.png",
+    name: "Java",
+    class: "java",
+    percent: "64%",
+  },
+  {
+    image: "images/Dsa.png",
+    name: "DSA (Java)",
+    class: "dsa",
+    percent: "58%",
   },
 ];
+
 let data = [
+  {
+    image: "images/zerodha-proj.png",
+    title: "Zerodha Clone",
+    about:
+      "Zerodha Clone: A responsive clone of the Zerodha website created to demonstrate layout, styling, and front-end structure replication skills.",
+    languages: "#html #css #js",
+    link: "https://zerodha-ds17.netlify.app/",
+  },
   {
     image: "images/wanderlust-proj.png",
     title: "Wanderlust",
     about:
-      "Welcome to Wanderlust, a project made to explore, add, manage various listings. Enjoy seamless experience of the website. ",
+      "Welcome to Wanderlust, a project made to explore, add, manage various listings. Enjoy seamless experience of the website.",
     languages: "#nodejs  #mongoDB",
     link: "https://wanderlust-17.onrender.com/",
   },

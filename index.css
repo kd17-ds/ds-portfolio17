@@ -326,7 +326,12 @@ a {
 .ejs {
   width: 82%;
 }
-
+.java {
+  width: 64%;
+}
+.dsa {
+  width: 58%;
+}
 .skillintro img {
   width: 70px;
 }
