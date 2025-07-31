@@ -87,6 +87,14 @@ let skills = [
 
 let data = [
   {
+    image: "images/xpenser-proj.png",
+    title: "Xpenser",
+    about:
+      "Xpenser is a full-stack personal finance tracker that helps users manage budgets, visualize transactions, and gain powerful insights.",
+    languages: "#mern #tailwindcss",
+    link: "https://xpenser-17.onrender.com/",
+  },
+  {
     image: "images/zerodha-proj.png",
     title: "Zerodha Clone",
     about:
