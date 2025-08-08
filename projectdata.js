@@ -1,45 +1,15 @@
 let skills = [
   {
-    image: "images/Html.png",
-    name: "HTML",
-    class: "html",
-    percent: "96%",
-  },
-  {
-    image: "images/Css.png",
-    name: "CSS",
-    class: "css",
-    percent: "94%",
-  },
-  {
     image: "images/Js.png",
     name: "JavaScript",
     class: "js",
     percent: "91%",
   },
   {
-    image: "images/Bootstrap.png",
-    name: "Bootstrap",
-    class: "bootstrap",
-    percent: "88%",
-  },
-  {
-    image: "images/Ejs.png",
-    name: "EJS",
-    class: "ejs",
-    percent: "82%",
-  },
-  {
-    image: "images/Tailwind.png",
-    name: "Tailwind CSS",
-    class: "tailwind",
-    percent: "85%",
-  },
-  {
-    image: "images/C.png",
-    name: "C",
-    class: "c",
-    percent: "75%",
+    image: "images/React.png",
+    name: "React",
+    class: "react",
+    percent: "84%",
   },
   {
     image: "images/Nodejs.png",
@@ -60,10 +30,28 @@ let skills = [
     percent: "77%",
   },
   {
-    image: "images/React.png",
-    name: "React",
-    class: "react",
-    percent: "74%",
+    image: "images/Html.png",
+    name: "HTML",
+    class: "html",
+    percent: "96%",
+  },
+  {
+    image: "images/Css.png",
+    name: "CSS",
+    class: "css",
+    percent: "94%",
+  },
+  {
+    image: "images/Tailwind.png",
+    name: "Tailwind CSS",
+    class: "tailwind",
+    percent: "85%",
+  },
+  {
+    image: "images/Bootstrap.png",
+    name: "Bootstrap",
+    class: "bootstrap",
+    percent: "88%",
   },
   {
     image: "images/Sql.png",
@@ -72,20 +60,34 @@ let skills = [
     percent: "60%",
   },
   {
-    image: "images/Java.png",
-    name: "Java",
-    class: "java",
-    percent: "64%",
+    image: "images/Ejs.png",
+    name: "EJS",
+    class: "ejs",
+    percent: "82%",
+  },
+  {
+    image: "images/C.png",
+    name: "C",
+    class: "c",
+    percent: "75%",
   },
   {
     image: "images/Dsa.png",
     name: "DSA (Java)",
-    class: "dsa",
-    percent: "58%",
+    class: "java",
+    percent: "64%",
   },
 ];
 
 let data = [
+  {
+    image: "images/pizzaforge-proj.png",
+    title: "Pizza Forge",
+    about:
+      "Pizza Forge is a full-stack pizza ordering application with real-time admin controls, Razorpay integration, inventory threshold alerts, and seamless user experience.",
+    languages: "#mern #tailwindcss",
+    link: "https://pizzaforge17.onrender.com/",
+  },
   {
     image: "images/xpenser-proj.png",
     title: "Xpenser",

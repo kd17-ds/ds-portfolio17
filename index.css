@@ -294,34 +294,34 @@ a {
   width: 75%;
 }
 .html {
-  width: 94%;
+  width: 96%;
 }
 .css {
-  width: 92%;
+  width: 94%;
 }
 .js {
-  width: 90%;
+  width: 91%;
 }
 .react {
-  width: 66%;
+  width: 84%;
 }
 .nodejs {
-  width: 75%;
+  width: 82%;
 }
 .express {
-  width: 72%;
+  width: 78%;
 }
 .mongodb {
-  width: 72%;
+  width: 77%;
 }
 .sql {
-  width: 57%;
+  width: 60%;
 }
 .tailwind {
-  width: 80%;
+  width: 85%;
 }
 .bootstrap {
-  width: 86%;
+  width: 88%;
 }
 .ejs {
   width: 82%;
@@ -332,6 +332,7 @@ a {
 .dsa {
   width: 58%;
 }
+
 .skillintro img {
   width: 70px;
 }
